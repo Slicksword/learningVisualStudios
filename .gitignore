@@ -1,0 +1,32 @@
+# compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+# Directories #
+###############
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+TestResults/
+# Logs and databases #
+######################
+*.log
+*.sqlite
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+#Things I Don't Understand#
+###########################
+*.sdf
+*.opensdf
+*.vcxproj.user
+*/ipch/
